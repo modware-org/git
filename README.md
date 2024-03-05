@@ -1,4 +1,6 @@
-# Modular FOUNDATION 
+# Modular projects
+
+MODWARE - Modular FOUNDATION
 
 
 + [Welcome to Portfolio of Softreck Company - softreck.dev](https://softreck.dev/)
@@ -52,6 +54,8 @@
 + devopsterminal.com
 + edit.ovh
 + editor.ovh
++ faas.ovh
+
 
 
 ### Libraries / sourcode
@@ -59,6 +63,10 @@
 + pyfunc.com
 + phpfunc.com
 + javafunc.com
++ jsfunc.com
++ bashfunc.com
++ kotlinfunc.com
++ 
 
 
 
