@@ -11,9 +11,27 @@
 ## Standards
 
 + [NDOF - Newline Delimited Objects Format - www.ndof.org](https://www.ndof.org/)
++ Modualarity
 + 
 
+
+
+### Solutions:
+
+
 ## Modular Software
+
++ Dialogware.com
++ Dynapsys.com
++ 
+
+## Modular Hardware
+
++ militarity.com
++ cameramonit.com
++ cameramind.com
+
+  
 
 ### definitions
 
