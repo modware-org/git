@@ -1,4 +1,4 @@
-# API-FOUNDATION Projects / Technology ecosystem
+# Modular FOUNDATION 
 
 
 + [Welcome to Portfolio of Softreck Company - softreck.dev](https://softreck.dev/)
@@ -8,7 +8,13 @@
 + [Softreck - Leadership Through Software Development](https://softreck.com/)
 
 
-## API FOUNDATION / definitions
+## Standards
+
++ [NDOF - Newline Delimited Objects Format - www.ndof.org](https://www.ndof.org/)
++ 
+
+
+## definitions
 
 + apibuild.com
 + apicra.com
@@ -34,5 +40,6 @@
 + pyfunc.com
 + phpfunc.com
 + javafunc.com
+
 
 
